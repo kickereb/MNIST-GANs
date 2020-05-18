@@ -1,2 +1,2 @@
 # MNIST-GANs
-Repository to for experimenting with GANs on MNIST dataset
+Repository for experimenting with GANs on MNIST dataset
